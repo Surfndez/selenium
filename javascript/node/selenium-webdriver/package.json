@@ -25,13 +25,13 @@
   "dependencies": {
     "jszip": "^3.2.2",
     "rimraf": "^2.7.1",
-    "tmp": "^0.1.0"
+    "tmp": "^0.2.4"
   },
   "devDependencies": {
     "express": "^4.17.1",
     "jasmine": "^3.5.0",
-    "mocha": "^5.2.0",
-    "multer": "^1.4.2",
+    "mocha": "^11.7.5",
+    "multer": "^2.1.1",
     "serve-index": "^1.9.1",
     "sinon": "^7.5.0"
   },
